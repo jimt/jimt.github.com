@@ -161,14 +161,14 @@ a.button span {
 #view-on-github span {
   background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
 }
-#view-on-github,#view-on-bitbucket,#view-on-gitorious,#view-on-sf {
+#view-on-github,#view-on-bitbucket,#view-on-gitlab,#view-on-sf {
   margin-right: 1em;
 }
 #view-on-bitbucket span {
   background: transparent url(../images/bitbucket.png) 12px 50% no-repeat;
 }
-#view-on-gitorious span {
-  background: transparent url(../images/gitorious.png) 12px 50% no-repeat;
+#view-on-gitlab span {
+  background: transparent url(../images/gitlab.png) 12px 50% no-repeat;
 }
 #view-on-sf span {
   background: transparent url(../images/sf.png) 12px 50% no-repeat;
